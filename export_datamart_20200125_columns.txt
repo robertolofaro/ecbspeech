@@ -1,0 +1,13 @@
+YYYY-MM-DD when the speech was delivered
+
+TEXT Speaker who delivered the speech (accents etc removed)
+
+TEXT Title of the speech
+
+The 100-most-frequent words within the speech, in JSON format
+
+TEXT 2-characters language code all uppercase: e.g. EN DE FR
+
+TEXT URL of the webpage on the ECB website with the full original speech
+
+TEXT 1-character code uppercase; values: S=Speech, I=Interview/other
